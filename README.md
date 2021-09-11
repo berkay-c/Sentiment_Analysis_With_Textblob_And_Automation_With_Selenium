@@ -80,8 +80,7 @@ Finally, when the analysis process is finished
 ![6](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/ScreenShot/SS6.png?raw=true)
 
 
-Please :arrow_right: **[Click](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/tree/main/PreBuiltGraphics)** To See More Outputs and if you want to know the restaurant name and link addresses, please :arrow_right: **[click](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/PreBuiltGraphics/RestaurantNameAndLinkAddress.txt)** 
-
+Please :arrow_right: **[Click](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/tree/main/PreBuiltGraphics)** To See More Outputs 
 
 
 
