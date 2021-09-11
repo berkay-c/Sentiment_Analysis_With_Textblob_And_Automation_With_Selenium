@@ -1,12 +1,12 @@
 
-![Project topic](ProjectTopicKoyulacak.png)
+![Project topic](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/ScreenShot/ProjectTopic.png?raw=true)
 
     
 # Sentiment Analysis With Data on 'yemeksepeti.com' And Automation
 ## About The Project
 From **yemeksepeti**, which is one of the popular online food ordering sites today, it is aimed to find our restaurant by automatically going to **yemeksepeti.Com** after only the restaurant name is entered by the user, and to make the necessary analyzes and visualizations by taking our restaurant comments and making sentiment analysis.
 
-![Gif One]()
+![Gif One](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/ScreenShot/GifOne.gif?raw=true)
 
 
 
@@ -67,33 +67,20 @@ Finally, when the analysis process is finished
 ```
 ## Screenshots
 
-### Örnek bir Ekran Görüntüsü Koy
+![1](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/ScreenShot/SS1.png?raw=true) 
 
-![Kent Kokoreç]() 
+![2](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/ScreenShot/SS2.png?raw=true)
 
-![Kent Kokoreç]()
+![3](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/ScreenShot/SS3.png?raw=true)
 
-![Kent Kokoreç]()
+![4](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/ScreenShot/SS4.png?raw=true)
 
-![Kent Kokoreç]()
+![5](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/ScreenShot/SS5.png?raw=true)
 
-![Kent Kokoreç]()
-
-![Kent Kokoreç]()
+![6](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/ScreenShot/SS6.png?raw=true)
 
 
-Please :arrow_right: **[Click]()** To See More Outputs
-
-If you want to know the restaurant name and link addresses,
- please :arrow_right: **[click]()** 
-
-
-
-
-
-
-
-
+Please :arrow_right: **[Click](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/tree/main/PreBuiltGraphics)** To See More Outputs and if you want to know the restaurant name and link addresses, please :arrow_right: **[click](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/PreBuiltGraphics/RestaurantNameAndLinkAddress.txt)** 
 
 
 
@@ -112,8 +99,7 @@ If you have any feedback, please reach out to us at berkayyasinciftci@gmail.com
 
   
 ## License
-düzelt
 
-[MIT](ayarla)
+[MIT](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/LICENSE)
 
   
