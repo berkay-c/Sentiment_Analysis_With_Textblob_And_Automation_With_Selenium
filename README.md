@@ -2,8 +2,8 @@
 ![Project topic](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/ScreenShot/ProjectTopic.png?raw=true)
 
     
-# Sentiment Analysis With Data on 'yemeksepeti.com' And Automation
-## About The Project
+
+## :round_pushpin: About The Project
 From **yemeksepeti**, which is one of the popular online food ordering sites today, it is aimed to find our restaurant by automatically going to **yemeksepeti.Com** after only the restaurant name is entered by the user, and to make the necessary analyzes and visualizations by taking our restaurant comments and making sentiment analysis.
 
 ![Gif One](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/ScreenShot/GifOne.gif?raw=true)
@@ -19,7 +19,7 @@ From **yemeksepeti**, which is one of the popular online food ordering sites tod
   * [nltk](https://www.nltk.org/)
   * [matplotlib](https://matplotlib.org/)
   * [webdriver-manager](https://pypi.org/project/webdriver-manager/)
-## Installation
+## :computer: Installation
 
 Let's install Python-3 
 
@@ -36,7 +36,7 @@ Then  install pip using python3
   $ sudo apt install python3-pip
 ```
 
-## Run Locally
+## :computer: Run Locally
 
 Clone the project
 
@@ -65,7 +65,7 @@ Finally, when the analysis process is finished
 ```bash
  $  deactivate
 ```
-## Screenshots
+## :camera_flash: Screenshots
 
 ![1](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/ScreenShot/SS1.png?raw=true) 
 
