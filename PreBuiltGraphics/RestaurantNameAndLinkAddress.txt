@@ -1,0 +1,8 @@
+RESTAURANT NAME(Comments Count) = LINK ADDRESS
+
+
+Pizza Zizza(62)     = yemeksepeti.com/pizza-zizza-efeler-cuma-mah-aydin
+Burger King(1228)   = yemeksepeti.com/burger-king-efeler-guzelhisar-mah-aydin
+Starbucks(56)       = yemeksepeti.com/starbucks-coffee-efeler-girne-mah-aydin
+Terra Pizza(333)    = yemeksepeti.com/terra-pizza-pizza-pizza-efeler-cumhuriyet-mah-aydin
+Ege Waffle(220)     = yemeksepeti.com/ege-waffle-efeler-orta-mah-aydin
