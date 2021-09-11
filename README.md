@@ -94,6 +94,14 @@ Please :arrow_right: **[Click](https://github.com/berkay-c/Sentiment_Analysis_Wi
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkay-c/) 
 
+</a>
+
+<a href="mailto:berkayyasinciftci@gmail.com?subject=Hola%20Jiji">
+<img 
+    src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Gmail"/>
+</a>
+
 ## Feedback
 
 If you have any feedback, please reach out to us at berkayyasinciftci@gmail.com
