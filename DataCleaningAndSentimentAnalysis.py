@@ -56,7 +56,7 @@ def getWordCloud_English():
     wordCloud_En=WordCloud(width=500,height=400,random_state=21,max_font_size=119).generate(allWords_En)
     plt.imshow(wordCloud_En,interpolation="bilinear")
     plt.axis("off")
-    plt.savefig("getWordCloud_English.png")
+    plt.savefig("getWordCloud_English.png",dpi=1000,bbox_inches="tight")
     print("English Word Cloud Saved as 'getWordCloud_English.png'")
 
 
@@ -68,7 +68,7 @@ def getPlotThePolarityAndSubjectivity():
     plt.title("Sentiment Analysis")
     plt.xlabel("Polarity")
     plt.ylabel('Subjectivity')
-    plt.savefig("PlotThePolarityAndSubjectivity.png")
+    plt.savefig("PlotThePolarityAndSubjectivity.png",dpi=1000,bbox_inches="tight")
     print("Graph of The Polaritiy And Subjectivity Saved as 'PlotThePolarityAndSubjectivity.png'")
     print("-"*50)
 
@@ -77,10 +77,10 @@ def getPlotAndVisualizeTheCounts():
     plt.figure()
     plt.figure(figsize=(8,6))
     plt.title("Sentiment Analysis")
-    plt.xlabel("Sentiment")
-    plt.ylabel("Counts")
+    plt.xlabel("Analysis of comments")
+    plt.ylabel("Comment Count")
     dataToBeAnalyzed['Analysis'].value_counts().plot(kind="bar")
-    plt.savefig("SentimentAnalysisCounts.png")  
+    plt.savefig("SentimentAnalysisCounts.png",dpi=1000,bbox_inches="tight")  
     print("Graph of Sentiment Analysis Counts Saved as 'SentimentAnalysisCounts.png'")
         
 
