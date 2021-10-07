@@ -4,7 +4,7 @@
     
 
 ## :round_pushpin: About The Project
-From **yemeksepeti**, which is one of the popular online food ordering sites today, it is aimed to find our restaurant by automatically going to **yemeksepeti.Com** after only the restaurant name is entered by the user, and to make the necessary analyzes and visualizations by taking our restaurant comments and making sentiment analysis.
+From **yemeksepeti**, which is one of the popular online food ordering sites today, it is aimed to find our restaurant by automatically going to **yemeksepeti.com** after only the restaurant name is entered by the user, and to make the necessary analyzes and visualizations by taking our restaurant comments and making sentiment analysis.
 
 ![Gif One](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/ScreenShot/GifOne.gif?raw=true)
 
