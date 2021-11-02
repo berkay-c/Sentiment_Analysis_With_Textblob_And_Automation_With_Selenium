@@ -89,7 +89,7 @@ Please :arrow_right: **[Click](https://github.com/berkay-c/Sentiment_Analysis_Wi
 
 
 
-## 🔗 Contact Me
+## 🔗 Contact Me and Feedback
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/berkay-c)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkay-c/) 
@@ -101,10 +101,6 @@ Please :arrow_right: **[Click](https://github.com/berkay-c/Sentiment_Analysis_Wi
     src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" 
     alt="Gmail"/>
 </a>
-
-## Feedback
-
-If you have any feedback, please reach out to us at berkayyasinciftci@gmail.com
 
   
 ## License
