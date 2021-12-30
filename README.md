@@ -43,7 +43,7 @@ Then  install pip using python3
 Clone the project
 
 ```bash
- $ git clone https://github.com/berkay-c/sentiment_analysis_with_textblob_and_automation_with_selenium.git
+ $ git clone https://github.com/berkay-c/sentiment-analysis-with-textblob-and-automation-with-selenium.git
 ```
 
 Go to the project directory
