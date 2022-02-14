@@ -46,27 +46,30 @@ Clone the project
  $ git clone https://github.com/berkay-c/sentiment-analysis-with-textblob-and-automation-with-selenium.git
 ```
 
-Go to the project directory
+Go to the project directory 
 
 ```bash
  $  cd Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium
- $  source bin/activate
+```
+
+Create and activated virtualenv
+
+```bash
+ $  virtualenv venv
+ $  source venv/bin/activate
 ```
 
 Install requirements.txt
 
 ```bash
- $  pip install -r /path/to/requirements.txt
+ $  pip install -r requirements.txt
 ```
 
 Run MainApp.py using python3
 ```bash
  $  python3 MainApp.py
 ```
-Finally, when the analysis process is finished
-```bash
- $  deactivate
-```
+
 ## :camera_flash: Screenshots
 
 ![1](https://github.com/berkay-c/Sentiment_Analysis_With_Textblob_And_Automation_With_Selenium/blob/main/ScreenShot/SS1.png?raw=true) 
